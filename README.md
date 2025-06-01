@@ -30,7 +30,7 @@ Sou **formado em Ciência da Computação** e atualmente estou ampliando meus co
 
 ### 📫 Onde me encontrar
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/cristianpenteado)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/cristian-penteado/)
 - 💻 [GitHub](https://github.com/cristianpenteado)
 - 📧 cristianpenteado@gmail.com
 
